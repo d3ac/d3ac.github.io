@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yueyi Zhang"
   avatar           : "images/big_head.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Sun Yat-sen University"
   location         : "Guangdong, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    :  #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "1048563083@qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "d3ac"
   google_plus      :
   keybase          :
   instagram        :

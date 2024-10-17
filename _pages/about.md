@@ -26,7 +26,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<!-- # 📝 Publications 
+# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,16 +40,17 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** 
+
+# 💡 Patent
+
 
 # 🎖 Honors and Awards
 - *2023.11* International Collegiate Programming Contest (ICPC), Bronze Medal.
 - *2021.09* China Undergraduate Mathematical Contest in Modeling, National Second Prize.
 - *2022.11* Mathematical Contest In Modeling (MCM), Meritorious Winner.
 
-# 📖 Educations
-- *2023.09 - 2025.09*, Bachelor, Nanjing University of Science and Technology, Communication engineering, Rank 2/124 (top 1.6%). 
-- *2021.09 - 2023.09*, Bachelor, Nanjing University of Science and Technology, Electronic information class, Rank 3/478 (top 0.6%). 
+{% include_relative includes/others.md %}
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
