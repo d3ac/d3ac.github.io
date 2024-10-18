@@ -12,8 +12,5 @@
 
 [**Project**](https://github.com/d3ac/MetaRL-for-UAV-Anti-jamming) ![](https://shields.io/github/stars/d3ac/MetaRL-for-UAV-Anti-jamming)
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- hi
-- im zyy
-
+- Using context-based MetaRL method, the UAV cluster can realize anti-jamming communication in complex electromagnetic environment, adapt to task quickly, transmit data efficiently and minimize loss and overhead.
 </div></div>
