@@ -8,7 +8,7 @@
 
 [An Anti-Jamming Communication Method for Unmanned Cluster Based on Meta-Reinforcement Learning](https://github.com/d3ac/MetaRL-for-UAV-Anti-jamming/blob/main/Patent%20draft.pdf)
 
-**Yueyi Zhang**, Tianyu Zhao, Yijin Zhang, Lin Yan\*
+**Yueyi Zhang**, Tianyu Zhao, Zhifei wang, Haoran Cheng, Yan Lin$^\dag$, Yijin Zhang$^\dag$
 
 [**Project**](https://github.com/d3ac/MetaRL-for-UAV-Anti-jamming) ![](https://shields.io/github/stars/d3ac/MetaRL-for-UAV-Anti-jamming)
 
